@@ -1,8 +1,16 @@
-# systematic_review
+# Systematic review: Language as a marker of PTSD, a systematic literature review
 
 Code for Systematic Literature review on language marker for PTSD.
+
 Using the Notebook "reproduce_figure_and_analysis.ipynb" you can reproduce the figures and analysis of the paper.
 
+We report the out put of pip freeze in the file "requirements.txt" to help you install the necessary packages. We advise to filter before installation as many package depends on the OS you are using.
+
+## Citation
+```
+Quillivic et al. 2024; Language as a marker of PTSD, a systematic literature review.
+
+```
 
 ## Abstract
 Background: Diagnosing PTSD remains a challenge due to symptom variability and comorbidities. Linguistic analysis offers an innovative approach to identifying PTSD symptoms and severity.
@@ -12,9 +20,15 @@ Results: Linguistic features such as pronoun use, emotional valence, cognitive p
 Conclusions: Linguistic markers show potential for enhancing PTSD diagnosis, but current research is limited by methodological inconsistencies and biases. Future research should focus on standardized tools, symptom-focused studies, and interdisciplinary collaboration to improve the robustness and clinical applicability of findings.
 
 ## Data
-The data used in this study is available in the data folder. 
-The TSV file is used for the Gargantex analysis : https://academia.sub.gargantext.org/ 
-The CSV file is used for the analysis in the notebook.
+The data used in this study is available in the data folder.
+
+1. The TSV file is used for the Gargantex analysis : https://academia.sub.gargantext.org/ 
+
+2. The Excel file is used for the analysis in the notebook.
+
+
+
+
 
 ## Figures
 Here are the figures produced in the notebook:
