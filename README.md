@@ -1,4 +1,4 @@
-# Systematic review: Language as a marker of PTSD, a systematic literature review
+# Language as a marker of PTSD, a systematic literature review
 
 Code for Systematic Literature review on language marker for PTSD.
 
