@@ -37,7 +37,7 @@ Figure 2. Number of Studies Over Time (Grouped by 2-Year Intervals)
 ![Figure 2](results/time_evolution.png)
 
 Figure 3. Sankey diagram
-![Figure 3](results/sankey.png)
+![Figure 3](results/sankey_diagram.png)
 
 Figure 4.  Distribution of Sample Size Depending on the Type  Diagnosis Tool Used
 ![Figure 4](results/sample_size_diagnosis_tool_plot.png)
